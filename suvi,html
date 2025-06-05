@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>PORTFOLIO</title>
+    </head>
+    <body bgcolor="black" style="color: white;">
+        <center>
+            <h1>PORTFOLIO</h1>
+            <h3 style="color: rgb(116, 125, 153);">In Love With The Art 
+                vibes
+            </h3>
+            <img src="photo 01.jpg" width="400px">
+            <hr>
+        </center>
+        <h4 style="color: rgb(140, 141, 179);">About me</h4>
+        <center>
+        <p>I'm From Mayiladuthurai, Tamilnadu. A self Thaught Artist, also a
+             freelance artist who works in almost all type of artwork. Here in this
+              Project I'm Showcasing my artworks.
+            I'm passionate about capturing Details,Emotions & Texture Through Graphite,Paint Brushes Bringing My subjects to life with realism</p>
+            <h4 style="color: rgb(185, 193, 213);"> CHARCOAL|WATERCOLOUR|OIL/ACRYLIC|PHOTOGRAPHY</h4>
+            <img src="Photo 02.jpg" width="200px">
+            <img src="20250105_125605.jpg" width="200px">
+            <h4 style="color: rgb(114, 122, 148);">ABOUT MY WORKS</h4>
+            <p>A drawing medium made from burnt wood, has been used for centuries by artists, dating back to prehistoric cave paintings. 
+Acrylic paint is a fast-drying, water-based paint made of pigment suspended in an acrylic polymer emulsion
+ Photography is the art of capturing and processing light to create images, whether using a digital sensor or film. It's more than just technical skill; it's about storytelling, preserving moments, and communicating emotions. Photography can be used to document events, capture portraits, or explore creative visions, making it a versatile and impactful medium.</p>
+                <img src="Photo 03.jpg" width="600px">
+                 
+               
+
+            </center>
+            <center>
+               <p>view more:</p> <a style="color: rgb(181, 189, 212);" href="PORTFOLIO of Srivadhani S.pdf">Portfolio of Srivadhani</a> <a style="color:rgb(181, 189, 212) ;" href="https://www.instagram.com/shreesuresh_arts?igsh=MTc2aXg2a3NwM3Vwbw==">| Art page</a>
+                <h3>THANK YOU</h3>
+                <hr>
+            </center>
+                <p>CONTACT</p>
+            <p>+91 9677873500</p>
+            <p>srivadhanisuresh@gmail.com</p>
+        <p><a style="color: rgb(255, 255, 255);" href="@shreesuresh_arts">@shreesuresh_arts</a>  on instagram</p>
+
+
+    </body>
+
+
+</html>
